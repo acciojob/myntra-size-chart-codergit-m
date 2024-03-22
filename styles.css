@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+<style>
+		th,td,table{
+			border=1px;
+			border-color:black;
+			border-style:solid;
+			border-collapse:collapse;
+		}
+		th{
+			text-align = left;
+		}
+
+		td{
+			text-align = right;
+		}
+
+		table{
+			width = 50%;
+		}
+	</style>
